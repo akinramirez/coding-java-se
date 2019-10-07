@@ -1,0 +1,2 @@
+StreamDeDatos.bEscrituraFichero
+StreamDeDatos.Escritura
