@@ -1,2 +1,0 @@
-StreamDeDatos.aAccesoLecturaFichero
-StreamDeDatos.LeerFichero

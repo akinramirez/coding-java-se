@@ -1,4 +1,0 @@
-programacionGenerica.Administrador
-programacionGenerica.Empleado
-programacionGenerica.usoEmpleado
-programacionGenerica.Empleados

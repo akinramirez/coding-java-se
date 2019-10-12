@@ -1,3 +1,0 @@
-StreamDeDatos.cAccesoLecturaFicheroBuffer
-StreamDeDatos.LeerFicheroBuffer
-StreamDeDatos.LeerFichero
