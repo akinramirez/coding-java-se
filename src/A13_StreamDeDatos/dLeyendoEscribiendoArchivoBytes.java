@@ -14,7 +14,7 @@ public class dLeyendoEscribiendoArchivoBytes {
     int byteImagen[] = new int[275553];
 
     try {
-      FileInputStream lecturaArchivo = new FileInputStream("C:/Users/Akin Ramirez/Documents/NetBeansProjects/coding-java-se/src/externo/digitalocean-shark.png");
+      FileInputStream lecturaArchivo = new FileInputStream("C:/Users/Akin Ramirez/Documents/NetBeansProjects/coding-java-se/src/externo/digitalocean-shark1.png");
 
       boolean finaArchivo = false;
 
